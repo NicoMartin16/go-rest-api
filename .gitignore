@@ -1,0 +1,6 @@
+.vscode/
+rssagg
+.env
+govendor/
+data/
+vendor/
